@@ -1,5 +1,8 @@
 # メイプルストーリー ザ・シード 24層 BGMクイズ辞書
 ## インストール方法
+### ダウンロード
+このページ右上の「Code」から「Download ZIP」をクリックし、ZIPファイルを展開します。  
+![Download](tutorial_img/Download.png)
 ### Microsoft IME
 1. IMEのオプションから「設定」を開きます。  
 ![MSIME_1](tutorial_img/MSIME-1.png)
