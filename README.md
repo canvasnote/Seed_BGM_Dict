@@ -38,9 +38,11 @@
 ## 謝辞
 本辞書は以下の情報を参考に作成させていただきました。  
 この場を借りてお礼申し上げます。  
-i. けものフレンズ辞書(ヴォストク様 twitter@vostok061)  
+
+けものフレンズ辞書(ヴォストク様 twitter@vostok061)  
 https://harutori.org/works/kemodic.html  
-i. シード　お助けシート(うみたぁん様 twitter@umitan_maple)  
+
+シード　お助けシート(うみたぁん様 twitter@umitan_maple)  
 https://docs.google.com/spreadsheets/d/1kvmRZaeuiT2ogZfI_ny1EBPtFDxAekZKZzwNE3U9Wkg/edit#gid=952136525
 
 ## その他
